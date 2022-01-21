@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**davycardinaal/davycardinaal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a freelance software developer specialized in Ruby on Rails.
 
-Here are some ideas to get you started:
+## Favorite languages/frameworks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Ruby on Rails](/assets/ruby-on-rails.png) Ruby on Rails
+![React](/assets/react.png) React
+
+## Tools I love to work with
+
+![Vim](/assets/vim.png) Vim
+![Git](/assets/git.png) Git
+![Docker](/assets/docker.png) Docker
+
+## Current situation
+
+I'm currently working for [Jobport](https://www.jobport.nl/)
+
+## Contact
+
+Feel free to contact me:
+📫 [mail@davycardinaal.nl](mailto:mail@davycardinaal.nl)
