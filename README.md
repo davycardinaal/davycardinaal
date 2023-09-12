@@ -5,7 +5,6 @@ I'm a freelance software developer specialized in Ruby on Rails.
 ## Favorite languages/frameworks
 
 ![Ruby on Rails](/assets/ruby-on-rails.png) Ruby on Rails  
-![React](/assets/react.png) React  
 Vue
 
 ## Tools I love to work with
